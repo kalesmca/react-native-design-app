@@ -1,0 +1,1 @@
+export const dataList = [{name:"kalees",id:"1"},{name:"waran",id:"2"},{name:"muthu",id:"3"},{name:"kumar",id:"4"},{name:"nandhini",id:"5"},{name:"raji",id:"6"},{name:"Kumarshirt",id:"7"},{name:"Mani",id:"8"},{name:"Volley ball",id:"9"},{name:"Athletics",id:"10"}]
